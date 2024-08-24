@@ -19,3 +19,8 @@ Hey, I am **Zeeze**. I use Discord to sell my one of a kind products (mainly Dis
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
+
+[discord]: https://discord.gg/RhZ6ksFNG8
+[hireme]: https://discord.gg/RhZ6ksFNG8
+
+*Thank you to [Itz-Hyperz](https://github.com/Itz-Hyperz) for this ❤️*

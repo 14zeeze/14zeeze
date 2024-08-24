@@ -6,4 +6,16 @@ Hey, I am **Zeeze**. I use Discord to sell my one of a kind products (mainly Dis
 ![](https://komarev.com/ghpvc/?username=14zeeze&label=Views&color=lightgrey)
 [![GitHub followers](https://img.shields.io/github/followers/14zeeze?label=Follow&style=social)](https://github.com/14zeeze)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/RhZ6ksFNG8)](https://discord.gg/RhZ6ksFNG8)
-[![spotify](https://api.statusbadges.me/badge/spotify/374ebd64ad8a4738)](https://api.statusbadges.me/openspotify/374ebd64ad8a4738)
+
+<b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-Node.JS-nformational?style=flat&logo=nodedotjs&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Code-HTML%20&%20CSS-informational?style=flat&logo=HTML5&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)

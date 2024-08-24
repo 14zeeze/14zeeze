@@ -6,3 +6,4 @@ Hey, I am **Zeeze**. I use Discord to sell my one of a kind products (mainly Dis
 ![](https://komarev.com/ghpvc/?username=14zeeze&label=Views&color=lightgrey)
 [![GitHub followers](https://img.shields.io/github/followers/14zeeze?label=Follow&style=social)](https://github.com/14zeeze)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/RhZ6ksFNG8)](https://discord.gg/RhZ6ksFNG8)
+[![spotify](https://api.statusbadges.me/badge/spotify/374ebd64ad8a4738)](https://api.statusbadges.me/openspotify/374ebd64ad8a4738)

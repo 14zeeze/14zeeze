@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Zeeze...+I+code">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Zeeze...+I+code.">
 </p>
 
-
+<p align="center">
 Hey, I am **Zeeze**. I use Discord to sell my one of a kind products (mainly Discord bots). You can join my Discord using one of the links below. I hope to see you around!
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=179350283)
 ![](https://komarev.com/ghpvc/?username=14zeeze&label=Views&color=lightgrey)

@@ -13,7 +13,8 @@ Hey, I am <b>Zeeze.</b> I use Discord to sell my one of a kind products (mainly 
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-## 🔧 Technologies & Tools
+<h1 align="center"> 🔧 Technologies & Tools: </h1>
+
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9B9B9B)

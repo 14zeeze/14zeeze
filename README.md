@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Hey, I am **Zeeze**. I use Discord to sell my one of a kind products (mainly Discord bots). You can join my Discord using one of the links below. I hope to see you around!
+Hey, I am <b>Zeeze.</b> I use Discord to sell my one of a kind products (mainly Discord bots). You can join my Discord using one of the links below. I hope to see you around!
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=179350283)

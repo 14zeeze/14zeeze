@@ -28,8 +28,7 @@ Feel free to show some ❤️ by dropping a follow or starring some repositories
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
 
 <p align="center">
-[discord]: https://discord.gg/RhZ6ksFNG8
-[hireme]: https://discord.gg/RhZ6ksFNG8
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/5kCZjjEGrU)
 </p>
 
 <p align="center">

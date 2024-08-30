@@ -11,7 +11,9 @@ Hey, I am <b>Zeeze.</b> I use Discord to sell my one of a kind products (mainly 
 [![GitHub followers](https://img.shields.io/github/followers/14zeeze?label=Follow&style=social)](https://github.com/14zeeze)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/RhZ6ksFNG8)](https://discord.gg/RhZ6ksFNG8)
 
-<b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
+<p align="center">
+Feel free to show some ❤️ by dropping a follow or starring some repositories!
+</p>
 
 <h1 align="center"> 🔧 Technologies & Tools: </h1>
 
@@ -31,5 +33,5 @@ Hey, I am <b>Zeeze.</b> I use Discord to sell my one of a kind products (mainly 
 </p>
 
 <p align="center">
-*Thank you to <a href="https://github.com/Itz-Hyperz">Itz-Hyperz</a> for this ❤️*
+<i>Thank you to <a href="https://github.com/Itz-Hyperz">Itz-Hyperz</a> for this ❤️</i>
 </p>

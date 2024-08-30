@@ -31,5 +31,5 @@ Hey, I am <b>Zeeze.</b> I use Discord to sell my one of a kind products (mainly 
 </p>
 
 <p align="center">
-*Thank you to [Itz-Hyperz](https://github.com/Itz-Hyperz) for this ❤️*
+*Thank you to <a href="https://github.com/Itz-Hyperz">Itz-Hyperz</a> for this ❤️*
 </p>

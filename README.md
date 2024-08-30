@@ -27,11 +27,10 @@ Feel free to show some ❤️ by dropping a follow or starring some repositories
 ![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
 
-<h1 align="center"> 🌐 Socials: </h1>
-
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=htttps://discord.gg/5kCZjjEGrU)](htttps://discord.gg/5kCZjjEGrU)
-
-
 <p align="center">
 <i>Thank you to <a href="https://github.com/Itz-Hyperz">Itz-Hyperz</a> for this ❤️</i>
+</p>
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
